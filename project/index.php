@@ -8,8 +8,8 @@
 $txt = "PHP";
 echo "I love $txt!";
 ?>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>just a simple demo of how to deploy an application</h1>
+<p>DITCC3ACTLAB4</p>
 
 </body>
 </html>
