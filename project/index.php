@@ -35,10 +35,6 @@
     </div>
   </div>
 </div>
-$txt = "PHP";
-             echo "I love $txt!";
-            ?>
-  <?php
 
 </body>
 </html>
