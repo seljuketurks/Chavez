@@ -24,9 +24,7 @@
     </div>
     <div class="col-sm-4">
       <h3>GALLERY 2</h3>
-      <p>$txt = "PHP";
-             echo "I love $txt!";
-            ?>
+      <p>
        </p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
@@ -37,7 +35,10 @@
     </div>
   </div>
 </div>
-<?php
+$txt = "PHP";
+             echo "I love $txt!";
+            ?>
+  <?php
 
 </body>
 </html>
